@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gitclone\\book-mangement\\BookManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement.csproj|d:\\gitclone\\book-mangement\\bookmanager\\bookmanagement_hoangngoctrinh\\bookdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\bookdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement.csproj|d:\\gitclone\\book-mangement\\bookmanager\\bookmanagement_hoangngoctrinh\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328374-717E-4C31-99B1-678E8BE1679A}|BookManagement.BLL\\BookManagement.BLL.csproj|d:\\gitclone\\book-mangement\\bookmanager\\bookmanagement.bll\\services\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328374-717E-4C31-99B1-678E8BE1679A}|BookManagement.BLL\\BookManagement.BLL.csproj|solutionrelative:bookmanagement.bll\\services\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328374-717E-4C31-99B1-678E8BE1679A}|BookManagement.BLL\\BookManagement.BLL.csproj|d:\\gitclone\\book-mangement\\bookmanager\\bookmanagement.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328374-717E-4C31-99B1-678E8BE1679A}|BookManagement.BLL\\BookManagement.BLL.csproj|solutionrelative:bookmanagement.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B328374-717E-4C31-99B1-678E8BE1679A}|BookManagement.BLL\\BookManagement.BLL.csproj|d:\\gitclone\\book-mangement\\bookmanager\\bookmanagement.bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B328374-717E-4C31-99B1-678E8BE1679A}|BookManagement.BLL\\BookManagement.BLL.csproj|solutionrelative:bookmanagement.bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement.csproj|d:\\gitclone\\book-mangement\\bookmanager\\bookmanagement_hoangngoctrinh\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAccountService.cs",
+              "DocumentMoniker": "D:\\gitclone\\book-mangement\\BookManager\\BookManagement.BLL\\Services\\UserAccountService.cs",
+              "RelativeDocumentMoniker": "BookManagement.BLL\\Services\\UserAccountService.cs",
+              "ToolTip": "D:\\gitclone\\book-mangement\\BookManager\\BookManagement.BLL\\Services\\UserAccountService.cs",
+              "RelativeToolTip": "BookManagement.BLL\\Services\\UserAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:49:26.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\gitclone\\book-mangement\\BookManager\\BookManagement.BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BookManagement.BLL\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\gitclone\\book-mangement\\BookManager\\BookManagement.BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BookManagement.BLL\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:49:24.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\gitclone\\book-mangement\\BookManager\\BookManagement.BLL\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookManagement.BLL\\Services\\BookService.cs",
+              "ToolTip": "D:\\gitclone\\book-mangement\\BookManager\\BookManagement.BLL\\Services\\BookService.cs",
+              "RelativeToolTip": "BookManagement.BLL\\Services\\BookService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:49:16.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookDetailWindow.xaml",
+              "DocumentMoniker": "D:\\gitclone\\book-mangement\\BookManager\\BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml",
+              "ToolTip": "D:\\gitclone\\book-mangement\\BookManager\\BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T16:48:39.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\gitclone\\book-mangement\\BookManager\\BookManagement_HoangNgocTrinh\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\LoginWindow.xaml",
+              "ToolTip": "D:\\gitclone\\book-mangement\\BookManager\\BookManagement_HoangNgocTrinh\\LoginWindow.xaml",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T16:48:08.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\gitclone\\book-mangement\\BookManager\\BookManagement_HoangNgocTrinh\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\MainWindow.xaml",
+              "ToolTip": "D:\\gitclone\\book-mangement\\BookManager\\BookManagement_HoangNgocTrinh\\MainWindow.xaml",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T16:48:04.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
