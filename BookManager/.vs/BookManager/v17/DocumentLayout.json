@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6FCCBB-3286-4247-8C65-C985B75B0524}|BookManager.DAL\\BookManager.DAL.csproj|c:\\users\\sasuk\\onedrive\\m\u00E1y t\u00EDnh\\book\\bookmanager\\bookmanager.dal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6FCCBB-3286-4247-8C65-C985B75B0524}|BookManager.DAL\\BookManager.DAL.csproj|solutionrelative:bookmanager.dal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4545D59-EE62-4960-9DB3-6B44A6598A84}|BookManager.BLL\\BookManager.BLL.csproj|c:\\users\\sasuk\\onedrive\\m\u00E1y t\u00EDnh\\book\\bookmanager\\bookmanager.bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4545D59-EE62-4960-9DB3-6B44A6598A84}|BookManager.BLL\\BookManager.BLL.csproj|solutionrelative:bookmanager.bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|c:\\users\\sasuk\\onedrive\\m\u00E1y t\u00EDnh\\book\\bookmanager\\bookmanager.ui\\bookdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|solutionrelative:bookmanager.ui\\bookdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|c:\\users\\sasuk\\onedrive\\m\u00E1y t\u00EDnh\\book\\bookmanager\\bookmanager.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|solutionrelative:bookmanager.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|c:\\users\\sasuk\\onedrive\\m\u00E1y t\u00EDnh\\book\\bookmanager\\bookmanager.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|solutionrelative:bookmanager.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|c:\\users\\sasuk\\onedrive\\m\u00E1y t\u00EDnh\\book\\bookmanager\\bookmanager.ui\\bookdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|solutionrelative:bookmanager.ui\\bookdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6FCCBB-3286-4247-8C65-C985B75B0524}|BookManager.DAL\\BookManager.DAL.csproj|c:\\users\\sasuk\\onedrive\\m\u00E1y t\u00EDnh\\book\\bookmanager\\bookmanager.dal\\models\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6FCCBB-3286-4247-8C65-C985B75B0524}|BookManager.DAL\\BookManager.DAL.csproj|solutionrelative:bookmanager.dal\\models\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|c:\\users\\sasuk\\onedrive\\m\u00E1y t\u00EDnh\\book\\bookmanager\\bookmanager.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|solutionrelative:bookmanager.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|c:\\users\\sasuk\\onedrive\\m\u00E1y t\u00EDnh\\book\\bookmanager\\bookmanager.ui\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|solutionrelative:bookmanager.ui\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|c:\\users\\sasuk\\onedrive\\m\u00E1y t\u00EDnh\\book\\bookmanager\\bookmanager.ui\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485A9973-BEBB-4E63-B4BA-8F8AC03DA702}|BookManager.UI\\BookManager.UI.csproj|solutionrelative:bookmanager.ui\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1445,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\BookDetail.xaml.cs",
+              "RelativeDocumentMoniker": "BookManager.UI\\BookDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\BookDetail.xaml.cs",
+              "RelativeToolTip": "BookManager.UI\\BookDetail.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:27:04.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.DAL\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookManager.DAL\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.DAL\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookManager.DAL\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:05:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\BookDetail.xaml",
+              "RelativeDocumentMoniker": "BookManager.UI\\BookDetail.xaml",
+              "ToolTip": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\BookDetail.xaml",
+              "RelativeToolTip": "BookManager.UI\\BookDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T04:14:54.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.DAL\\Models\\BookManagementDbContext.cs",
+              "RelativeDocumentMoniker": "BookManager.DAL\\Models\\BookManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.DAL\\Models\\BookManagementDbContext.cs",
+              "RelativeToolTip": "BookManager.DAL\\Models\\BookManagementDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:07:31.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BookManager.UI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\MainWindow.xaml",
+              "RelativeToolTip": "BookManager.UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T03:42:40.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManager.UI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BookManager.UI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwD4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:47:10.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.BLL\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookManager.BLL\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.BLL\\Services\\BookService.cs",
+              "RelativeToolTip": "BookManager.BLL\\Services\\BookService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:08:21.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\App.xaml",
+              "RelativeDocumentMoniker": "BookManager.UI\\App.xaml",
+              "ToolTip": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\App.xaml",
+              "RelativeToolTip": "BookManager.UI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T03:45:16.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManager.UI\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "BookManager.UI\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T03:44:32.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "BookManager.UI\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\sasuk\\OneDrive\\M\u00E1y t\u00EDnh\\book\\BookManager\\BookManager.UI\\LoginWindow.xaml",
+              "RelativeToolTip": "BookManager.UI\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-18T03:34:41.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

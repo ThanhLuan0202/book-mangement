@@ -1,0 +1,14 @@
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\bin\Debug\net8.0\BookManager.DAL.deps.json
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\bin\Debug\net8.0\BookManager.DAL.dll
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\bin\Debug\net8.0\BookManager.DAL.pdb
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\obj\Debug\net8.0\BookManager.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\obj\Debug\net8.0\BookManager.DAL.AssemblyInfoInputs.cache
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\obj\Debug\net8.0\BookManager.DAL.AssemblyInfo.cs
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\obj\Debug\net8.0\BookManager.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\obj\Debug\net8.0\BookManager.DAL.dll
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\obj\Debug\net8.0\refint\BookManager.DAL.dll
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\obj\Debug\net8.0\BookManager.DAL.pdb
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\obj\Debug\net8.0\ref\BookManager.DAL.dll
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\bin\Debug\net8.0\BookManager.DAL.runtimeconfig.json
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\obj\Debug\net8.0\BookManager.DAL.csproj.AssemblyReference.cache
+C:\Users\sasuk\OneDrive\Máy tính\book\BookManager\BookManager.DAL\obj\Debug\net8.0\BookManager.DAL.genruntimeconfig.cache

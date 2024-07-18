@@ -1,0 +1,16 @@
+﻿<Window x:Class="BookManager.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookManager.UI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="1000" Background="red" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="0,0,0,-6">
+        <DataGrid x:Name="BookDataGrid" HorizontalAlignment="Left" Height="266" Margin="10,256,0,0" VerticalAlignment="Top" Width="758" SelectionChanged="DataGrid_SelectionChanged" Loaded="BookDataGrid_Loaded" />
+        <Button x:Name="CreateButton" Content="Create" HorizontalAlignment="Left" Height="59" Margin="787,256,0,0" VerticalAlignment="Top" Width="203" Click="CreateButton_Click"/>
+        <Button x:Name="DeleteCreate" Content="Delete" HorizontalAlignment="Left" Height="59" Margin="787,330,0,0" VerticalAlignment="Top" Width="203" Click="DeleteCreate_Click"/>
+        <Button x:Name="UpdateCreate" Content="Update" HorizontalAlignment="Left" Height="59" Margin="787,412,0,0" VerticalAlignment="Top" Width="203" Click="UpdateCreate_Click"/>
+
+    </Grid>
+</Window>
